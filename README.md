@@ -15,6 +15,7 @@ La société souhaite analyser l’intérêt des livres ( les mieux notés ) dan
 Voici les visualisations au minimum attendues: une analyse nuage de mots à représenter et la fréquence des bigrammes et trigrammes
 
 ---> Cette partie est traitée dans le notebook : book_tweeter_analysis.ipynb
+Les fichiers csv avec les teweets associés à chaque livre sont générés par l'exécution du script du notebook.
 
 
 
